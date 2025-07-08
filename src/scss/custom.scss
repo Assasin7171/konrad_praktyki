@@ -1,0 +1,21 @@
+﻿// Kolory główne
+$primary: #3b82f6;            // Niebieski – główny kolor
+$secondary: #8b5cf6;          // Fiolet – kolor akcentowy
+$danger: #ef4444;             // Czerwony – np. do alertów
+
+// Kolory tła
+$body-bg: #f9fafb;            // Jasnoszare tło strony
+$body-color: #1f2937;         // Ciemny kolor tekstu
+
+// Kolory pomocnicze
+$gray-600: #6b7280;           // Jasny tekst (np. opisy)
+
+$text-primary: #ffffff;
+
+// Font
+$font-family-sans-serif: 'Poppins', 'Segoe UI', 'Helvetica Neue', sans-serif;
+
+// Inne (opcjonalne)
+$link-color: $primary;
+$link-hover-color: darken($primary, 10%);
+$border-radius: 0.5rem;
