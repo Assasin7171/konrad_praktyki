@@ -40,10 +40,10 @@ const Hero = () => {
                         nowoczesne aplikacje webowe i mobilne, ucząc się każdego dnia czegoś nowego. Sprawdź moje
                         projekty i zobacz, jak koduję rzeczywistość.</p>
                     <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
-                        <button type="button"
-                                className="btn btn-primary btn-lg px-4 gap-3">
+                        <a className="btn btn-primary btn-lg px-4 gap-3"
+                           href="#projects">
                             Projekty
-                        </button>
+                        </a>
                     </div>
                 </div>
             </div>
