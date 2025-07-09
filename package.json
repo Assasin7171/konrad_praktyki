@@ -2,7 +2,7 @@
   "name": "konrad_praktyki",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Assasin7171.github.io/konrad_praktyki",
+  "homepage": "https://assasin7171.github.io/konrad_praktyki/",
   "type": "module",
   "scripts": {
     "dev": "vite",
