@@ -10,8 +10,8 @@ const Hero = () => {
         typedInstance.current = new Typed(el.current, {
             strings: [
                 'Konrad Bojanecki',
-                '.NET Developer',
-                'Backend developer',
+                '.NET Junior Developer',
+                'Junior Backend developer',
             ],
             typeSpeed: 60,
             backSpeed: 25,
