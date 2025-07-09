@@ -1,0 +1,17 @@
+﻿.code-divider {
+  font-size: 2rem;
+  color: $primary;
+  font-family: 'Fira Code', monospace;
+  position: relative;
+
+  &::before,
+  &::after {
+    content: "";
+    display: inline-block;
+    width: 50px;
+    height: 2px;
+    background-color: $primary;
+    vertical-align: middle;
+    margin: 0 1rem;
+  }
+}

@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 
 // Import our custom CSS
-import './scss/styles.scss'
+import './styles/scss/styles.scss'
 
 // Import all of Bootstrap’s JS
 import * as bootstrap from 'bootstrap'

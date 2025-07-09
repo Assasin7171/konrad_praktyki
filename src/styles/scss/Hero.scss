@@ -1,0 +1,17 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
+.code-line {
+  background-color: #f9fafb;
+  color: #1f2937;
+  font-family: 'Fira Code', monospace;
+  font-size: 1.1rem;
+  padding: 1rem 1.5rem;
+  border-left: 4px solid $primary;
+  margin-top: 1.5rem;
+  display: inline-block;
+  border-radius: 6px;
+  white-space: pre-wrap;
+}
+
+
+
