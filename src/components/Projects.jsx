@@ -6,13 +6,18 @@ const Projects = () => {
         {
             title: "WorkHours App",
             description: "Aplikacja mobilna do śledzenia czasu pracy, z lokalizacją i wykresami.",
-            tech: ["MAUI", "SQLite", "Geo API"],
+            tech: ["MAUI", "API"],
             github: "https://github.com/assasin7171/workhours",
         },
         {
             title: "Portfolio Website",
             description: "Moja osobista strona jako praktykanta – z SCSS, React i Bootstrapem.",
-            tech: ["React", "SCSS", "Bootstrap"],
+            tech: ["React", "SCSS", "Bootstrap 5"],
+            github: "https://github.com/assasin7171/konrad_praktyki/",
+        },{
+            title: "Strona dla przychodni Rawka",
+            description: "Projekt dla przychodni rawka",
+            tech: ["React", "SCSS", "Bootstrap 5", "React Router DOM"],
             github: "https://github.com/assasin7171/konrad_praktyki/",
         },
     ];
